@@ -8,3 +8,4 @@ o: script to changes the current user.
 5: adds execute permission to the owner of the file
 6: adds execute permission to the owner and the group owner, and read permission to other users to a file
 7: permissions for everyone
+8: a script that sets the permission to the file, owner NP, groups NP, others P
