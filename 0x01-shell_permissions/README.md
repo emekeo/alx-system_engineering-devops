@@ -12,3 +12,4 @@ o: script to changes the current user.
 9: script that sets the mode of the file
 10: mirrors permissions
 11: directories permissions
+12: directory permissions
