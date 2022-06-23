@@ -10,3 +10,4 @@ o: script to changes the current user.
 7: permissions for everyone
 8: a script that sets the permission to the file, owner NP, groups NP, others p
 9: script that sets the mode of the file
+10: mirrors permissions
