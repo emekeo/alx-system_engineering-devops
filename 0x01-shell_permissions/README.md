@@ -13,3 +13,4 @@ o: script to changes the current user.
 10: mirrors permissions
 11: directories permissions
 12: directory permissions
+13: that changes the group owner
