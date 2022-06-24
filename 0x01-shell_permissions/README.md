@@ -14,3 +14,7 @@ o: script to changes the current user.
 11: directories permissions
 12: directory permissions
 13: that changes the group owner
+14: script that changes the owner to vincent and the group owner to staff
+15: a script that changes the owner and the group owner of _hello
+16: a script that changes the owner of the file hello to betty
+17: a script that will play the StarWars IV episode in the terminal
