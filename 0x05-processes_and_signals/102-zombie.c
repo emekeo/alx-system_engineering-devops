@@ -35,5 +35,3 @@ int main(void)
 	infinite_while();
 	return (0);
 }
-Footer
-
