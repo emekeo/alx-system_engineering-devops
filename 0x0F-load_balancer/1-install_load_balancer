@@ -19,8 +19,8 @@ frontend haproxy-main
         default_backend task-servers
 backend task-servers
         balance roundrobin
-        server 10718-web-01 54.165.235.40:80 check
-        server 10718-web-02 54.144.148.54:80 check
+        server 74481-web-01 54.165.235.40:80 check
+        server 74481-web-02 52.86.148.147:80 check
 "
 
 cp /etc/haproxy/haproxy.cfg /etc/haproxy/haproxy.cfg.bak
